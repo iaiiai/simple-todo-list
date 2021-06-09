@@ -1,0 +1,36 @@
+.completed {
+  transition: 0.5s;
+  border-radius: 10px;
+  background-color: #81b214;
+  color: #fff;
+}
+
+.card-title {
+  font-size: 20pt;
+  font-weight: 700;
+}
+
+.mb {
+  margin-bottom: 30px;
+}
+
+.mr {
+  margin-right: 20px;
+  color: #fff;
+}
+
+.mxy {
+  margin: 5px;
+}
+
+.arrange-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.card {
+  transition: 0.5s;
+}
